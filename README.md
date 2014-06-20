@@ -6,4 +6,4 @@ Make cool things using CSS3.
 DEMOs
 -------------
 
- - [The Pilippines](http://weilao.github.io/dribbble-css3/demos/ThePhilippines)
+ - [The Pilippines](http://weilao.github.io/dribbble-css3/ThePhilippines)
