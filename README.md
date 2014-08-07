@@ -1,4 +1,4 @@
-dribbble-css3
+Dribbble-CSS3
 =============
 
 Make cool things using CSS3.
