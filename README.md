@@ -3,7 +3,12 @@ Dribbble-CSS3
 
 Make cool things using CSS3.
 
-DEMOs
+Mailman-Icon
 -------------
+ - [DEMO](http://weilao.github.io/Mailman-Icon/)
+ - [Dribbble](https://dribbble.com/shots/1677721-Mailman-icon)
 
- - [The Pilippines](http://weilao.github.io/dribbble-css3/ThePhilippines)
+Sometime-Welcome
+-------------
+ - [DEMO](http://weilao.github.io/Sometime-Welcome/)
+ - [Dribbble](https://dribbble.com/shots/1677895-Sometime-Welcome)
