@@ -19,7 +19,7 @@ Sometime Welcome
 
 Moon Graphic
 -------------
- ![Moon Graphic](https://d13yacurqjgara.cloudfront.net/users/485926/screenshots/1676770/joleany_graphic_1x.jpg)
+ ![Moon Graphic](https://d13yacurqjgara.cloudfront.net/users/485926/screenshots/1676770/joleany_graphic.jpg)
  - [Dribbble](https://dribbble.com/shots/1676770-Moon-Graphic)
  - [DEMO](http://weilao.github.io/Moon-Graphic/)
  - [Source Code](https://github.com/weilao/Moon-Graphic)
