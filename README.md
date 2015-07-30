@@ -5,6 +5,7 @@ Make cool things using CSS3.
 
 Mailman Icon
 -------------
+ ![Mailman Icon](https://d13yacurqjgara.cloudfront.net/users/47119/screenshots/1677721/mailman.gif)
  - [DEMO](http://weilao.github.io/Mailman-Icon/)
  - [Dribbble](https://dribbble.com/shots/1677721-Mailman-icon)
 
